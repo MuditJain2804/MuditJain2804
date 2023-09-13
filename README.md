@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/mudit-jain-508932202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/mudit-jain-508932202/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mudit-jain-508932202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/mudit-jain-508932202/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mudit_2804" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mudit_2804" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mudit28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mudit28" height="30" width="40" /></a>
 </p>
